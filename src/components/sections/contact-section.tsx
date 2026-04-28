@@ -12,7 +12,7 @@ export function ContactSection() {
     <Section
       id="contact"
       eyebrow="Contact"
-      title="Let’s build something high-impact."
+      title="Let&apos;s build something high-impact."
       description="I enjoy collaborating on AI-powered products, polished frontends, and technical storytelling."
     >
       <Reveal>
