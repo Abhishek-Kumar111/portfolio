@@ -81,10 +81,10 @@ export function AboutSection() {
                 <CardContent>
                   <div className="space-y-6">
                     <ExperienceItem
-                      title="Full-Stack Developer Intern"
-                      company="Ransh Innovations Pvt. Ltd. (Remote)"
-                      period="Jun 2025 – Nov 2025"
-                      description="Built reusable React UI components for a doctor appointment booking system, reducing dev effort by ~20%. Developed the Staff Dashboard for managing appointments and schedules. Integrated Twilio SMS and Nodemailer notifications, boosting user engagement and appointment adherence."
+                      title="Placement Cell Coordinator"
+                      company="NIT Meghalaya"
+                      period="May 2026 - Present"
+                      description="Supported campus recruitment by coordinating with recruiters, scheduling placement activities, managing student records, and assisting in the smooth execution of hiring drives."
                     />
                   </div>
                 </CardContent>
@@ -102,7 +102,7 @@ export function AboutSection() {
                       title="B.Tech — Computer Science & Engineering"
                       company="National Institute of Technology Meghalaya"
                       period="Aug 2023 – May 2027"
-                      description="CGPA: 8.54 / 10. Strong foundations in DSA, Full-Stack Web Development, OOP, DBMS, and Operating Systems."
+                      description="CGPA: 8.58 / 10. Strong foundations in DSA, Full-Stack Web Development, OOP, DBMS, and Operating Systems."
                     />
                     <ExperienceItem
                       title="BSEB Class XII"
