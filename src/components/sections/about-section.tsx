@@ -88,6 +88,16 @@ export function AboutSection() {
                     />
                   </div>
                 </CardContent>
+                <CardContent>
+                  <div className="space-y-6">
+                    <ExperienceItem
+                      title="Full-Stack Developer Intern (Remote)"
+                      company="Ransh Innovations Pvt. Ltd."
+                      period="Jun 2025– Nov 2025"
+                      description="During my internship as a Full-Stack Developer Intern at Ransh Innovations Pvt. Ltd., I worked on a doctor appointment booking platform where I built reusable React components to improve the user interface, developed a staff dashboard for managing appointments and schedules."
+                    />
+                  </div>
+                </CardContent>
               </Card>
             </TabsContent>
 
